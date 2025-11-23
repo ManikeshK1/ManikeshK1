@@ -43,6 +43,20 @@
 
 ---
 
+# 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ManikeshK1&show_icons=true&theme=tokyonight" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManikeshK1&layout=compact&theme=tokyonight" height="165">
+</p>
+
+---
+
+# 👀 Profile Views  
+![Profile Views](https://komarev.com/ghpvc/?username=ManikeshK1&color=blue)
+
+---
+
 # 🚀 Completed Projects
 
 ### 🔹 **MNIST Digit Generator**  
@@ -58,19 +72,6 @@ A speaker verification pipeline built using SpeechBrain’s ECAPA-TDNN architect
 ### 🔹 **Proximity Warning System (Radar-based)**  
 A short-range radar detection system using **TI IWR6843 mmWave Radar** and **VEGA/SHAKTI cores**, designed for safety and industrial proximity sensing.
 
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ManikeshK1&show_icons=true&theme=tokyonight" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManikeshK1&layout=compact&theme=tokyonight" height="165">
-</p>
-
----
-
-# 👀 Profile Views  
-![Profile Views](https://komarev.com/ghpvc/?username=ManikeshK1&color=blue)
 
 ---
 
