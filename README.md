@@ -11,6 +11,7 @@
 🌱 Currently Learning **JavaScript, React, Generative AI, Deep Speech Processing**  
 
 🏆 **Achievements**  
+- Top 100 in India (AIR 6) — C2S Grand Challenge
 - Top 20 in India — National **Analog Design Hackathon (C2S)**  
 - 2nd Prize — **AI & VLSI Hackathon** @ IIIT Dharwad  
 
