@@ -24,7 +24,7 @@
 - Top 100 in India (AIR 6) — C2S Grand Challenge
 - Top 20 in India — National **Analog Design Hackathon (C2S)**  
 - 2nd Prize — **AI & VLSI Hackathon** @ IIIT Dharwad  
-
+<img src="assets/divider.svg" width="100%" />
 ---
 
 # 🔧 Tech Stack
@@ -52,11 +52,19 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
+<img src="assets/divider.svg" width="100%" />
 ---
 
 # 📊 GitHub Stats
 
 <p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Manikeshmk/Manikeshmk/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Manikeshmk/Manikeshmk/output/github-contribution-grid-snake.svg">
+    <img alt="github-snake" 
+         src="https://raw.githubusercontent.com/Manikeshmk/Manikeshmk/output/github-contribution-grid-snake.svg" 
+         style="filter: drop-shadow(0px 2px 4px rgba(0, 255, 0, 0.5)); border-radius: 4px;">
+  </picture>
   <img src="https://github-readme-stats.vercel.app/api?username=ManikeshK1&show_icons=true&theme=tokyonight" height="165">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManikeshK1&layout=compact&theme=tokyonight" height="165">
 </p>
@@ -66,6 +74,7 @@
 # 👀 Profile Views  
 ![Profile Views](https://komarev.com/ghpvc/?username=ManikeshK1&color=blue)
 
+<img src="assets/divider.svg" width="100%" />
 ---
 
 # 🚀 Completed Projects
@@ -83,8 +92,10 @@ A speaker verification pipeline built using SpeechBrain’s ECAPA-TDNN architect
 ### 🔹 **Proximity Warning System (Radar-based)**  
 A short-range radar detection system using **TI IWR6843 mmWave Radar** and **VEGA/SHAKTI cores**, designed for safety and industrial proximity sensing.
 
-
+<img src="assets/divider.svg" width="100%" />
 ---
 
 # 📫 Connect With Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manikesh-kumar/)
+
+<img src="./assets/footer.svg" />
