@@ -66,6 +66,8 @@
          src="https://raw.githubusercontent.com/Manikeshk1/Manikeshk1/output/github-contribution-grid-snake.svg" 
          style="filter: drop-shadow(0px 2px 4px rgba(0, 255, 0, 0.5)); border-radius: 4px;">
   </picture>
+</p>
+<p>
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ManikeshK1&show_icons=true&theme=tokyonight" height="165">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ManikeshK1&layout=compact&theme=tokyonight" height="165">
 </p>
