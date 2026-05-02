@@ -53,6 +53,7 @@
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 <img src="assets/divider.svg" width="100%" />
+
 ---
 
 # 📊 GitHub Stats
@@ -79,7 +80,8 @@
 # 👀 Profile Views  
 ![Profile Views](https://komarev.com/ghpvc/?username=ManikeshK1&color=blue)
 
-<img src="assets/divider.svg" width="100%" />
+<img src="./assets/divider.svg" width="100%" />
+
 ---
 
 # 🚀 Completed Projects
@@ -98,6 +100,7 @@ A speaker verification pipeline built using SpeechBrain’s ECAPA-TDNN architect
 A short-range radar detection system using **TI IWR6843 mmWave Radar** and **VEGA/SHAKTI cores**, designed for safety and industrial proximity sensing.
 
 <img src="assets/divider.svg" width="100%" />
+
 ---
 
 # 📫 Connect With Me  
