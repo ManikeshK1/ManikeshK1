@@ -1,4 +1,7 @@
 <!-- Banner -->
+## 🛠️ Languages & Technologies
+
+![All Languages](https://all-languages-used.vercel.app/api/languages?username=manikeshK1)
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=28&color=FFFF00&center=true&vCenter=true&width=600&lines=Hi+there+👋;+I'm+Manikesh+Kumar!;+Data+Science+%26+AI+Engineer;Generative+AI+%7C+Deep+Learning+%7C+Web+Dev" />
 </p>
