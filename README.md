@@ -1,4 +1,5 @@
 <!-- Banner -->
+## please visit my main account Manikeshmk  [click here to visit ](https://github.com/ManikeshK1)
 ## 🛠️ Languages & Technologies
 
 ![All Languages](https://all-languages-used.vercel.app/api/languages?username=manikeshK1)
